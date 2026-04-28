@@ -6,7 +6,7 @@ css: resume.css
 
 # Antonia E Musso, PhD
 
-761-955 East Hastings Street, Vancouver BC, V6A 0G8 <br> 604.679.7044 <br> dr.antonia.musso\@gmail.com
+Vancouver BC
 
 ## Career Profile
 
@@ -47,9 +47,6 @@ Researcher with over 13 years' experience in quantitative and qualitative data a
 
 - Maintained positive working relationships with government personnel, leaders of research sub-groups across five academic institutions, federal research groups in four provinces, industry stakeholders, and Indigenous rights holders over 10-years
 :::
-
-<br><br><br><br>
-[This resume made in Quarto <br> Click here for GitHub!](https://github.com/Robotonia/AntoniaMusso_Resume)
 
 ## Employment History
 
