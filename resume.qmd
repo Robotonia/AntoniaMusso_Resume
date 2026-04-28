@@ -1,0 +1,118 @@
+---
+format: pdf
+pdf-engine: weasyprint
+css: resume.css
+---
+
+# Antonia E Musso, PhD
+
+761-955 East Hastings Street, Vancouver BC, V6A 0G8 <br> 604.679.7044 <br> dr.antonia.musso\@gmail.com
+
+## Career Profile
+
+Researcher with over 13 years' experience in quantitative and qualitative data analysis, information synthesis, and research communication. Strengths include:
+
+- Data management and applications of data integrity practices for high-quality, transparent, and repeatable data analytics using *R* programming language and Quarto
+
+- Data exploration, summarization, and statistical analysis with validation in *R* across a broad range of subjects
+
+- Communication of data and research findings through writing, visualizations, and presentations to specialist and non-expert audiences
+
+### Data Analysis
+
+::: {.customlist}
+- Managed numerous large and complex datasets using *tidyverse* packages in *R*, Microsoft Excel, and Google Workspace
+
+- Created clear and concise summaries of data, statistics, and analyses numberically using tables, and visually in figures and other graphics
+
+- Used advanced statistical programming in *R* within RStudio and Quarto to perform general/generalized linear and mixed effects models, generalized additive models, linear/non-linear least squares regression, and multivariate statistics
+
+- Verified and validated statistical analyses and models using tests and model visualizations to ensure appropriate analyses were performed, identified and interpreted trends in data and their limitations
+:::
+
+### Communication
+
+::: {.customlist}
+- Communicated conclusions and recommendations from research studies in journal articles, written reports, at academic conferences, and stakeholder meetings
+
+- Prepared presentations and learning materials to synthesize complex information, research, and applications as a class instructor and in high-profile scientific communication (PBS, BBC)
+
+- Invited to serve as a representative of research groups at knowledge exchange events with Indigenouse communities, stakeholders, and the public
+:::
+
+### Teamwork and Relationship Building
+
+::: {.customlist}
+- Collaborated on projects in ecology, physiology, physics, sociology, and mathematical modelling as a key member of a multi-institutional, interdisciplinary research group
+
+- Maintained positive working relationships with government personnel, leaders of research sub-groups across five academic institutions, federal research groups in four provinces, industry stakeholders, and Indigenous rights holders over 10-years
+:::
+
+<br><br><br><br>
+[This resume made in Quarto <br> Click here for GitHub!](https://github.com/Robotonia/AntoniaMusso_Resume)
+
+## Employment History
+
+#### Postdoctoral Research Fellow [May 2023 -- Dec 2025]{.rightdates}
+
+[TRIA-FoR Project, University of Alberta]{.smindent}
+
+- Designed, performed, analyzed, and collaborated on studies in ecology, physiology, physics, sociology, and mathematical modelling
+
+- Led workshops on data integrity, reproduceability, and the practices of data cleaning using *tidyverse* in *R*
+
+- Mentored high-school students and undergraduate interns from programs that programs that promote the inclusion of women (WISEST) and Indigenous Peoples (I-STEAM) in science
+
+- Synthesized and communicated results from research group to academic, government, industry stakeholders, and Indigenous rights holders
+
+#### Primary Instructor Biology 208: Principles of Ecology [Jan 2024 -- May 2024]{.rightdates}
+
+[Department of Biological Sciences, University of Alberta]{.smindent}
+
+- Prepared and delivered accessible lectures on complex ecological theory to over 400 second-year students using PowerPoint and other visual aids
+
+- Communicated with students over email, web-based forums, and in-person meetings; 98% of students reported course established and maintained a climate of mutual respect
+
+#### Graduate Researcher and Teaching Assistant (PhD) [Jan 2016 -- Apr 2023]{.rightdates}
+
+[Department of Biological Sciences, University of Alberta]{.smindent}
+
+- Performed now research in forest ecology using unique and creative experimental approaches in the lab and fied in adherence with Provincial policy and legislation
+
+- Oversaw concurrent projects while supervision junior students and staff
+
+#### Graduate Researcher and Teaching Assistant (Master's Degree) [Jan 2013 -- Apr 2016]{.rightdates}
+
+[Department of Biological Sciences, Simon Fraser University]{.smindent}
+
+- Performed research on sustainable pest management solutions and adhered to regulations and policy under the Canadian Council for Animal Care
+
+- Training in statistical analysis of data using Microsoft Excel, JMP, and *R*
+
+## Education history
+
+#### Doctor of Philosophy (PhD) [in Ecology]{.notbold} [2016 -- 2023]{.rightdates}
+
+[University of Alberta]{.smindent}
+
+#### Master of Pest Management (MPM) [2013 -- 2016]{.rightdates}
+
+[Simon Fraser University]{.smindent}
+
+#### Bachelor of Science in Biology, [Co-operative Education]{.notbold} [2006 -- 2011]{.rightdates}
+
+[Simon Fraser University]{.smindent}<br> [Focus on Ecology, Evolutionary Biology, and Conservation]{.smindent}
+
+## Volunteer history
+
+#### Treasurer, Executive Board Member [Jan 2023 -- Jan 2025]{.rightdates}
+
+[Entomological Society of Canada]{.smindent}
+
+#### Treasurer, Biology Graduate Students Association [Mar 2017 -- Mar 2019]{.rightdates}
+
+[University of Alberta]{.smindent}
+
+#### Union Steward, Teaching Support Staff Union [Jan 2013 -- Jan 2016]{.rightdates}
+
+[Simon Fraser University]{.smindent}
